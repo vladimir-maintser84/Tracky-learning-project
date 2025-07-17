@@ -1,0 +1,34 @@
+Task{task={=0}, startingTime=2025-07-01, finishTime=null, priority='', tag='', isDone=false}Task{task={Test1=0}, startingTime=2025-07-01, finishTime=null, priority='i', tag='test11231', isDone=false}Task{task={Java=1}, startingTime=2025-07-01, finishTime=null, priority='e', tag='test11231', isDone=false}task= {hello=0}
+ startingTime=2025-07-01
+ finishTime=null
+ priority='d'
+ tag='das'
+ isDone=falsetask= {da=1}
+ startingTime=2025-07-01
+ finishTime=null
+ priority='das'
+ tag='das'
+ isDone=falseThe task : Test with id: 0
+ startingTime: 2025-07-12
+ finishTime: null
+ Time used: {Days: =0, Years: =0, Months: =0}
+ priority: sakdkas
+ tag: dsflhjkhdflaks
+ isDone: false
+ 
+The task : test with id: 0
+ startingTime: 2025-07-17
+ finishTime: null
+ Time used: {Minutes: =0, Seconds: =0, Days: =0, Hours: =0, Years: =0, Months: =0}
+ priority: test
+ tag: test
+ isDone: false
+ 
+The task : test with id: 0
+ startingTime: 2025-07-17T16:42:57.156417
+ finishTime: 2025-07-17T16:42:57.156417
+ Time used: {Minutes: =0, Seconds: =0, Days: =0, Hours: =0, Years: =0, Months: =0}
+ priority: test
+ tag: test
+ isDone: false
+ 
